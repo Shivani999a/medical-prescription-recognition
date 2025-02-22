@@ -1,4 +1,2 @@
 # medical-prescription-recognition
-
-##jjs
-###fg
+## heading 2
