@@ -35,8 +35,6 @@ Internet connection
 Operating System: Windows, Linux, or macOS
 
 Python 3.x
-
-Required Python libraries (install using requirements.txt)
 #  Usage
 1.Upload a scanned image of a handwritten medical prescription.
 
