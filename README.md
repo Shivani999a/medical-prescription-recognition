@@ -22,7 +22,7 @@ Object Detection: YOLOv5
 
 Front-end: HTML, CSS
 
-Tools: Anaconda, Jupyter Notebook
+Tools: Anaconda
 
 # System Requirements
 # Hardware:
